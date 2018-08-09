@@ -1,4 +1,3 @@
-#define our variables
 current_time = int(input("Please enter the current time. "))
 total_hours = int(input("How long would you like to sleep? "))
 days = total_hours // 24
